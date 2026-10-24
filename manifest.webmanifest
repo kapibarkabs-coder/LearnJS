@@ -1,0 +1,10 @@
+{
+  "name": "JS Quest — учи JavaScript",
+  "short_name": "JS Quest",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101b2d",
+  "theme_color": "#101b2d",
+  "description": "Короткие игровые уроки JavaScript на русском языке",
+  "icons": []
+}
